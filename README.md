@@ -20,7 +20,6 @@
 | **`MD_calculator_MACE_LAMM.py`** | 計算実行 | `LAMMPS` 環境用：段階昇温 ＋ 本計算 NVT-MD シミュレーション（Nose-Hoover Chain） |
 | **`MD_successer_MACE_cuEq.py`** | 計算実行 | `cuEq` 環境用：既存の `.traj` ファイルの最終フレームからの継続 MD（リスタート） |
 | **`MD_successer_MACE_LAMM.py`** | 計算実行 | `LAMMPS` 環境用：既存の `.traj` ファイルの最終フレームからの継続 MD（リスタート） |
-| **`mace_mp_medium_fp64.model-lammps.pt`** | モデル | LAMMPS (`pair_style mace`) 読み込み用に変換済みの MACE-MP-0 (medium, 倍精度) モデル |
 
 ---
 
